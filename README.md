@@ -1,4 +1,4 @@
-# Nuxt 3 Supabase Exercices
+# Nuxt 3 Supabase Exercises
 
 ## This example provides the steps to build a basic user management app. It includes:
 
