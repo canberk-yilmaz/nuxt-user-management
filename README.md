@@ -1,5 +1,8 @@
 # Nuxt 3 Supabase Exercises
 
+<!-- add user-management image from assets with link  -->
+![Demo Image](/assets/user-management.png)
+
 ## This example provides the steps to build a basic user management app. It includes:
 
 - Supabase Database: a Postgres database for storing your user data.
